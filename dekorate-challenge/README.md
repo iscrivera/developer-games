@@ -1,4 +1,4 @@
-# dekorate-challenge Project
+# Multivelopers dekorate-challenge Project
 
 This project uses Spring Boot Framework.
 
