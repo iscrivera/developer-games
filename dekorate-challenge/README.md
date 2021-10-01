@@ -30,7 +30,7 @@ oc start-build dekorate-challenge --from-dir=target/ --follow
 
 ## Bonus track
 
-If you want to use Dekorate with Kubernetes or JIB uncomment the corresponding section in pom.xml and DekorateChallengeApplication.java files
+If you want to use Dekorate with Kubernetes or JIB uncomment the corresponding section in pom.xml and DekorateChallengeApplication.java files.
 
 pom.xml:
 ```shell script
