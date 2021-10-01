@@ -57,7 +57,7 @@ public class BookResource {
     @APIResponse(responseCode = "200", content = @Content(mediaType = APPLICATION_JSON, schema = @Schema(implementation = Book.class)))
     @APIResponse(responseCode = "204", description = "The book is not found for a given name")
     @GET
-    @Path("/{name}")
+    @Path("/byName/{name}")
     public Response getBook(@PathParam("name") String name) {
         Book book = service.findBookByName(name);
         if (book != null) {
