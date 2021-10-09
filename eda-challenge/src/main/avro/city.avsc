@@ -1,0 +1,15 @@
+{
+  "namespace": "mx.multivelopers.kafka.quarkus",
+  "type": "record",
+  "name": "City",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "country",
+      "type": "string"
+    }
+  ]
+}
