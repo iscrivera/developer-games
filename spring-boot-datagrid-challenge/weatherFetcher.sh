@@ -1,0 +1,11 @@
+curl localhost:8080/weather/paris
+curl localhost:8080/weather/london
+curl localhost:8080/weather/berlin
+curl localhost:8080/weather/madrid
+curl localhost:8080/weather/tokyo
+curl localhost:8080/weather/lima
+curl localhost:8080/weather/lisboa
+curl localhost:8080/weather/ibiza
+curl localhost:8080/weather/piruleta
+curl localhost:8080/weather/oslo
+curl localhost:8080/weather/stockholm
