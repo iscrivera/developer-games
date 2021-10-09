@@ -1,0 +1,11 @@
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/paris
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/london
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/berlin
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/madrid
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/tokyo
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/lima
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/lisboa
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/ibiza
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/piruleta
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/oslo
+curl http://spring-boot-datagrid-challenge-user2-challenge3.apps.cluster-9vs5p.9vs5p.sandbox1530.opentlc.com/weather/stockholm
