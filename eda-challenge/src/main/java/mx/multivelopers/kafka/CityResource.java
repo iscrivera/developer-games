@@ -29,6 +29,6 @@ public class CityResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello RESTEasy Reactive";
+        return "Welcome to EDA-Challenge Multivelopers Team";
     }
 }
