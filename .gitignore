@@ -3,3 +3,5 @@
 dekorate-challenge/.springBeans
 .settings
 target/
+.factorypath
+.mvn
